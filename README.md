@@ -19,7 +19,7 @@
 * drill
 * sql on hbase
 
-## 编译Bigtable-sql
+## 编译bigtable-sql
 * bigtable-sql是一个标准的maven project,在工程的根目录执行以下命令进行编译:
     - mvn clean install -DskipTests
 * 通过导入项目到eclipse编译：
