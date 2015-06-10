@@ -1,5 +1,5 @@
 ## Home
-访问我的[个人博客Itweet](http://www.itweet.cn),获取更多云计算/大数据的技术文章！各种转载或修改请注明出处。[www.itweet.cn]
+访问我的[个人博客Itweet](http://www.itweet.cn),获取更多云计算/大数据的技术文章！各种转载或修改请注明出处![@群288396468]
 
 ## bigtable-sql-3.5.0
  此软件为基于SQuirreL SQL开源软件二次开发！
