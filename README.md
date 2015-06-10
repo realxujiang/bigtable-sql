@@ -19,7 +19,7 @@
 * drill
 * sql on hbase
 
-<div style="text-align:center;"><img src="https://www.github.com/itweet/bigtable-sql/screenshots/version.png" style="vertical-align:middle;"/></div>
+<div style="text-align:center;"><img src="https://github.com/itweet/bigtable-sql/blob/master/screenshots/bigtable-sql.png" style="vertical-align:middle;"/></div>
 
 ## 注意
    presto 所支持的jdk为1.8+,即如果该客户端使用的不是1.8+,则无法连接！提供的bigtable-sql-3.5.0.zip安装包,自带一个jdk1.8,
