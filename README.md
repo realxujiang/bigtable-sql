@@ -33,8 +33,8 @@
 
 ## 运行
 * unzip bigtable-sql-3.5.0.zip
-1.run bigtable-sql.bat
+    - run bigtable-sql.bat
 
 * 导入eclipse
-1. 等待maven从中央参考下载包,手动添加lib/bigtable-sql_zh_CN.jar到classpatch中
-2. crtl+shift+t--Main--Run as--Java Application
+    - 等待maven从中央参考下载包,手动添加lib/bigtable-sql_zh_CN.jar到classpatch中
+    - crtl+shift+t--Main--Run as--Java Application
