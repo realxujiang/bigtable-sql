@@ -1,0 +1,141 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_67
+Class-Path: lib/jaxws-rt-2.1.4.jar lib/jaxws-api-2.1.jar lib/jaxb-api-
+ 2.1.jar lib/jaxb-impl-2.1.7.jar lib/saaj-impl-1.3.1.jar lib/saaj-api-
+ 1.3.jar lib/streambuffer-0.7.jar lib/activation-1.1.jar lib/sjsxp-1.0
+ .1.jar lib/stax-api-1.0.jar lib/stax-ex-1.2.jar lib/resolver-20050927
+ .jar lib/mimepull-1.2.jar lib/FastInfoset-1.2.9.jar lib/jsr173-1.0.ja
+ r lib/fw-3.5.0.jar lib/antlr-2.7.5.jar lib/asm-attrs-1.5.3.jar lib/as
+ m-1.5.3.jar lib/cglib-2.1_3.jar lib/commons-cli-1.2.jar lib/commons-c
+ odec-1.3.jar lib/commons-collections-2.1.1.jar lib/commons-httpclient
+ -3.1.jar lib/commons-logging-1.0.4.jar lib/dom4j-1.6.1.jar lib/hibern
+ ate-annotations-3.3.0.ga.jar lib/persistence-api-1.0.jar lib/hibernat
+ e-commons-annotations-3.3.0.ga.jar lib/hibernate-entitymanager-3.3.1.
+ ga.jar lib/hibernate-validator-3.0.0.ga.jar lib/javassist-3.3.ga.jar 
+ lib/jboss-common-core-2.0.4.GA.jar lib/hibernate-3.2.4.sp1.jar lib/eh
+ cache-1.2.3.jar lib/jxl-2.6.10.jar lib/jide-oss-2.4.8.jar lib/log4j-1
+ .2.15.jar lib/nanoxml-2.2.3.jar lib/spring-beans-2.5.2.jar lib/spring
+ -context-2.5.2.jar lib/spring-context-support-2.5.2.jar lib/aopallian
+ ce-1.0.jar lib/spring-core-2.5.2.jar lib/stringtemplate-3.1-b1.jar li
+ b/xml-apis-1.0.b2.jar lib/forms-1.2.1.jar lib/spring-test-3.2.8.RELEA
+ SE.jar lib/gsbase-2.0.1.jar lib/junitperf-1.8.jar lib/commons-lang-2.
+ 6.jar lib/junit-4.9.jar lib/hamcrest-core-1.1.jar lib/easymock-3.3.ja
+ r lib/cglib-nodep-3.1.jar lib/objenesis-2.1.jar lib/easymockclassexte
+ nsion-3.2.jar lib/mockito-all-1.10.19.jar lib/jfreechart-1.0.14.jar l
+ ib/itext-2.1.5.jar lib/bcmail-jdk14-138.jar lib/bcprov-jdk14-138.jar 
+ lib/jcommon-1.0.17.jar lib/hive-service-1.1.0.jar lib/hive-exec-1.1.0
+ .jar lib/hive-ant-1.1.0.jar lib/velocity-1.5.jar lib/oro-2.0.8.jar li
+ b/apache-log4j-extras-1.2.17.jar lib/ST4-4.0.4.jar lib/ant-1.9.1.jar 
+ lib/ant-launcher-1.9.1.jar lib/groovy-all-2.1.6.jar lib/calcite-core-
+ 1.0.0-incubating.jar lib/calcite-linq4j-1.0.0-incubating.jar lib/pent
+ aho-aggdesigner-algorithm-5.1.5-jhyde.jar lib/eigenbase-properties-1.
+ 1.4.jar lib/janino-2.7.6.jar lib/commons-compiler-2.7.6.jar lib/calci
+ te-avatica-1.0.0-incubating.jar lib/stax-api-1.0.1.jar lib/jpam-1.1.j
+ ar lib/jetty-all-7.6.0.v20120127.jar lib/geronimo-jta_1.1_spec-1.1.1.
+ jar lib/mail-1.4.1.jar lib/geronimo-jaspic_1.0_spec-1.0.jar lib/geron
+ imo-annotation_1.0_spec-1.1.1.jar lib/asm-commons-3.1.jar lib/asm-tre
+ e-3.1.jar lib/libfb303-0.9.2.jar lib/libthrift-0.9.2.jar lib/curator-
+ framework-2.6.0.jar lib/curator-client-2.6.0.jar lib/hive-jdbc-1.1.0.
+ jar lib/hive-common-1.1.0.jar lib/hive-serde-1.1.0.jar lib/opencsv-2.
+ 3.jar lib/parquet-hadoop-bundle-1.6.0rc3.jar lib/hive-shims-1.1.0.jar
+  lib/hive-shims-common-1.1.0.jar lib/hive-shims-0.20S-1.1.0.jar lib/h
+ ive-shims-0.23-1.1.0.jar lib/hadoop-yarn-server-resourcemanager-2.6.0
+ .jar lib/jersey-client-1.9.jar lib/hadoop-yarn-server-common-2.6.0.ja
+ r lib/leveldbjni-all-1.8.jar lib/hadoop-yarn-server-applicationhistor
+ yservice-2.6.0.jar lib/hadoop-yarn-server-web-proxy-2.6.0.jar lib/hiv
+ e-shims-scheduler-1.1.0.jar lib/httpclient-4.2.5.jar lib/httpcore-4.2
+ .5.jar lib/zookeeper-3.4.6.jar lib/spark-sql_2.10-1.2.0.jar lib/spark
+ -core_2.10-1.2.0.jar lib/chill_2.10-0.5.0.jar lib/kryo-2.21.jar lib/r
+ eflectasm-1.07-shaded.jar lib/minlog-1.2.jar lib/chill-java-0.5.0.jar
+  lib/hadoop-client-2.2.0.jar lib/hadoop-mapreduce-client-app-2.2.0.ja
+ r lib/hadoop-mapreduce-client-common-2.2.0.jar lib/hadoop-yarn-client
+ -2.2.0.jar lib/hadoop-mapreduce-client-shuffle-2.2.0.jar lib/hadoop-y
+ arn-api-2.2.0.jar lib/hadoop-mapreduce-client-jobclient-2.2.0.jar lib
+ /spark-network-common_2.10-1.2.0.jar lib/spark-network-shuffle_2.10-1
+ .2.0.jar lib/curator-recipes-2.4.0.jar lib/jetty-plus-8.1.14.v2013103
+ 1.jar lib/javax.transaction-1.1.1.v201105210645.jar lib/jetty-webapp-
+ 8.1.14.v20131031.jar lib/jetty-xml-8.1.14.v20131031.jar lib/jetty-ser
+ vlet-8.1.14.v20131031.jar lib/jetty-jndi-8.1.14.v20131031.jar lib/jav
+ ax.mail.glassfish-1.4.1.v201005082020.jar lib/javax.activation-1.1.0.
+ v201105071233.jar lib/jetty-security-8.1.14.v20131031.jar lib/jetty-u
+ til-8.1.14.v20131031.jar lib/jetty-server-8.1.14.v20131031.jar lib/ja
+ vax.servlet-3.0.0.v201112011016.jar lib/jetty-continuation-8.1.14.v20
+ 131031.jar lib/jetty-http-8.1.14.v20131031.jar lib/commons-lang3-3.3.
+ 2.jar lib/jul-to-slf4j-1.7.5.jar lib/jcl-over-slf4j-1.7.5.jar lib/com
+ press-lzf-1.0.0.jar lib/lz4-1.2.0.jar lib/RoaringBitmap-0.4.5.jar lib
+ /akka-remote_2.10-2.3.4-spark.jar lib/akka-actor_2.10-2.3.4-spark.jar
+  lib/config-1.2.1.jar lib/protobuf-java-2.5.0-spark.jar lib/uncommons
+ -maths-1.2.2a.jar lib/akka-slf4j_2.10-2.3.4-spark.jar lib/scala-libra
+ ry-2.10.4.jar lib/json4s-jackson_2.10-3.2.10.jar lib/json4s-core_2.10
+ -3.2.10.jar lib/json4s-ast_2.10-3.2.10.jar lib/scalap-2.10.0.jar lib/
+ mesos-0.18.1-shaded-protobuf.jar lib/netty-all-4.0.23.Final.jar lib/s
+ tream-2.7.0.jar lib/metrics-core-3.0.0.jar lib/metrics-jvm-3.0.0.jar 
+ lib/metrics-json-3.0.0.jar lib/metrics-graphite-3.0.0.jar lib/tachyon
+ -client-0.5.0.jar lib/tachyon-0.5.0.jar lib/pyrolite-2.0.1.jar lib/py
+ 4j-0.8.2.1.jar lib/spark-catalyst_2.10-1.2.0.jar lib/scala-compiler-2
+ .10.4.jar lib/scala-reflect-2.10.4.jar lib/quasiquotes_2.10-2.0.1.jar
+  lib/parquet-column-1.6.0rc3.jar lib/parquet-common-1.6.0rc3.jar lib/
+ parquet-encoding-1.6.0rc3.jar lib/parquet-generator-1.6.0rc3.jar lib/
+ parquet-hadoop-1.6.0rc3.jar lib/parquet-format-2.2.0-rc1.jar lib/parq
+ uet-jackson-1.6.0rc3.jar lib/jackson-databind-2.3.0.jar lib/jackson-a
+ nnotations-2.3.0.jar lib/jackson-core-2.3.0.jar lib/unused-1.0.0.jar 
+ lib/hive-metastore-1.1.0.jar lib/guava-14.0.1.jar lib/bonecp-0.8.0.RE
+ LEASE.jar lib/derby-10.11.1.1.jar lib/datanucleus-api-jdo-3.2.6.jar l
+ ib/datanucleus-core-3.2.10.jar lib/datanucleus-rdbms-3.2.9.jar lib/co
+ mmons-pool-1.5.4.jar lib/commons-dbcp-1.4.jar lib/jdo-api-3.0.1.jar l
+ ib/jta-1.1.jar lib/antlr-runtime-3.4.jar lib/hadoop-common-2.4.0.jar 
+ lib/hadoop-annotations-2.4.0.jar lib/commons-math3-3.1.1.jar lib/xmle
+ nc-0.52.jar lib/commons-io-2.4.jar lib/commons-net-3.1.jar lib/servle
+ t-api-2.5.jar lib/jetty-6.1.26.jar lib/jetty-util-6.1.26.jar lib/jers
+ ey-core-1.9.jar lib/jersey-json-1.9.jar lib/jettison-1.1.jar lib/jack
+ son-jaxrs-1.8.3.jar lib/jackson-xc-1.8.3.jar lib/jersey-server-1.9.ja
+ r lib/jasper-compiler-5.5.23.jar lib/jasper-runtime-5.5.23.jar lib/js
+ p-api-2.1.jar lib/commons-el-1.0.jar lib/jets3t-0.9.0.jar lib/java-xm
+ lbuilder-0.4.jar lib/commons-configuration-1.6.jar lib/commons-digest
+ er-1.8.jar lib/commons-beanutils-1.7.0.jar lib/commons-beanutils-core
+ -1.8.0.jar lib/jackson-core-asl-1.8.8.jar lib/jackson-mapper-asl-1.8.
+ 8.jar lib/avro-1.7.4.jar lib/paranamer-2.3.jar lib/protobuf-java-2.5.
+ 0.jar lib/hadoop-auth-2.4.0.jar lib/jsch-0.1.42.jar lib/jsr305-1.3.9.
+ jar lib/commons-compress-1.4.1.jar lib/xz-1.0.jar lib/slf4j-api-1.7.7
+ .jar lib/slf4j-log4j12-1.7.7.jar lib/phoenix-core-4.3.0.jar lib/antlr
+ -3.5.jar lib/jline-2.11.jar lib/sqlline-1.1.8.jar lib/joda-time-2.3.j
+ ar lib/annotations-1.3.2.jar lib/snappy-0.3.jar lib/htrace-core-2.04.
+ jar lib/netty-3.6.6.Final.jar lib/commons-csv-1.0.jar lib/hbase-commo
+ n-0.98.9-hadoop2.jar lib/hbase-annotations-0.98.9-hadoop2.jar lib/fin
+ dbugs-annotations-1.3.9-1.jar lib/hbase-protocol-0.98.9-hadoop2.jar l
+ ib/hbase-client-0.98.9-hadoop2.jar lib/joni-2.1.2.jar lib/jcodings-1.
+ 0.8.jar lib/hbase-server-0.98.9-hadoop2.jar lib/hbase-prefix-tree-0.9
+ 8.9-hadoop2.jar lib/hbase-common-0.98.9-hadoop2-tests.jar lib/hbase-h
+ adoop-compat-0.98.9-hadoop2.jar lib/hbase-hadoop2-compat-0.98.9-hadoo
+ p2.jar lib/metrics-core-2.2.0.jar lib/high-scale-lib-1.1.1.jar lib/co
+ mmons-math-2.1.jar lib/jetty-sslengine-6.1.26.jar lib/jsp-2.1-6.1.14.
+ jar lib/jsp-api-2.1-6.1.14.jar lib/servlet-api-2.5-6.1.14.jar lib/jam
+ on-runtime-2.3.1.jar lib/hadoop-hdfs-2.2.0.jar lib/commons-daemon-1.0
+ .13.jar lib/hbase-server-0.98.9-hadoop2-tests.jar lib/hadoop-mapreduc
+ e-client-core-2.2.0.jar lib/hadoop-yarn-common-2.2.0.jar lib/jersey-t
+ est-framework-grizzly2-1.9.jar lib/jersey-test-framework-core-1.9.jar
+  lib/javax.servlet-api-3.0.1.jar lib/jersey-grizzly2-1.9.jar lib/griz
+ zly-http-2.1.2.jar lib/grizzly-framework-2.1.2.jar lib/gmbal-api-only
+ -3.0.0-b023.jar lib/management-api-3.0.0-b012.jar lib/grizzly-http-se
+ rver-2.1.2.jar lib/grizzly-rcm-2.1.2.jar lib/grizzly-http-servlet-2.1
+ .2.jar lib/javax.servlet-3.1.jar lib/jersey-guice-1.9.jar lib/guice-s
+ ervlet-3.0.jar lib/presto-jdbc-0.100.jar lib/presto-hive-0.100.jar li
+ b/hive-dwrf-0.8.jar lib/hive-dwrf-shims-0.8.jar lib/presto-orc-0.100.
+ jar lib/slice-0.10.jar lib/presto-spi-0.100.jar lib/hive-apache-0.10.
+ jar lib/stats-0.106.jar lib/jol-core-0.1.jar lib/bootstrap-0.106.jar 
+ lib/log-manager-0.106.jar lib/log4j-over-slf4j-1.7.5.jar lib/concurre
+ nt-0.106.jar lib/log-0.106.jar lib/json-0.106.jar lib/jackson-datatyp
+ e-jdk8-2.4.4.jar lib/jackson-datatype-jsr310-2.4.4.jar lib/jackson-da
+ tatype-guava-2.4.4.jar lib/jackson-datatype-joda-2.4.4.jar lib/units-
+ 0.106.jar lib/node-0.106.jar lib/configuration-0.106.jar lib/bval-jsr
+ 303-0.5.jar lib/bval-core-0.5.jar lib/discovery-0.106.jar lib/http-cl
+ ient-0.106.jar lib/jetty-client-9.2.11.M0.jar lib/jetty-io-9.2.11.M0.
+ jar lib/trace-token-0.106.jar lib/guice-4.0-beta5.jar lib/guice-multi
+ bindings-4.0-beta5.jar lib/javax.inject-1.jar lib/annotations-2.0.3.j
+ ar lib/validation-api-1.1.0.Final.jar lib/jmxutils-1.18.jar lib/aws-j
+ ava-sdk-1.8.9.1.jar lib/slf4j-jdk14-1.7.5.jar lib/snappy-java-1.0.5.jar
+Main-Class: net.sourceforge.squirrel_sql.client.Main
+Built-By: SQuirreL Development Team
+Created-By: Maven Integration for Eclipse
+SplashScreen-Image: icons/splash.jpg
+

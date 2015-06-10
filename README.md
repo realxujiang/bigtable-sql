@@ -26,5 +26,9 @@
     - 选中项目mvn pachage
 
 ## 运行
-    >> java -jar bigtable-sql-3.5.0.jar
-    >> 导入eclipse--crtl+shift+t--Main--Run as--Java Application
+    >> unzip bigtable-sql-3.5.0.zip
+        run bigtable-sql.bat
+    >> 导入eclipse
+        1、等待maven从中央参考下载包,手动添加lib/bigtable-sql_zh_CN.  
+           jar到classpatch中
+        2、crtl+shift+t--Main--Run as--Java Application
