@@ -1,5 +1,5 @@
 ## Home
-访问我的[个人博客Itweet](http://www.itweet.cn),获取更多云计算/大数据的技术文章！各种转载或修改请注明出处![@群288396468]
+访问我的[个人博客Itweet](http://www.itweet.cn),获取更多云计算/大数据的技术文章！各种转载或修改请注明出处!来自www.itweet.cn
 
 ## bigtable-sql-3.5.0
  此软件为基于SQuirreL SQL开源软件二次开发！
@@ -17,7 +17,7 @@
 * sparksql
 * presto
 * drill
-* sql on hbase
+* sql on hbase(phoenix)
 
 <div style="text-align:center;"><img src="https://github.com/itweet/bigtable-sql/blob/master/screenshots/bigtable-sql.png" style="vertical-align:middle;"/></div>
 
