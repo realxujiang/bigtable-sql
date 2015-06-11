@@ -4,7 +4,7 @@
 ## bigtable-sql-3.5.0
  此软件为基于SQuirreL SQL开源软件二次开发！
  分布式大数据SQL查询可视化界面！
- 中文用户手册[请点击](http://www.itweet.cn).
+ 中文用户手册[请点击](https://github.com/itweet/bigtable-sql/tree/master/doc).
 
 ## 编译环境
 * Windows or Linux
