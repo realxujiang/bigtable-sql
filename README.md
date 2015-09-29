@@ -36,8 +36,8 @@
     - 选中项目mvn install
 
 ## 下载
-   > [bigtable-sql-3.5.0.zip](http://pan.baidu.com/s/1jGH1Js6) <br> 
-   > 密码：g97n 
+   > [bigtable-sql-3.5.0.zip](http://pan.baidu.com/s/1kTq3kAN) <br> 
+   > 密码：lsjq 
 
 ## 运行
 * unzip bigtable-sql-3.5.0.zip
